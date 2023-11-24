@@ -1,5 +1,46 @@
-This version of the Bit Academy was an exersize for my study. The languages I use are HTML, PHP, Javascript and Bootstrap
+# Bit Academy Website
 
-As you can see, it's not finished yet. This exersize is made without any knowledgde of Bootstrap or Javascript and a little knowledge of HTML. For a timeframe of 6 hours, its something to be proud of.
+This version of the Bit Academy website was created as an exercise for a study program. The implemented languages include HTML, PHP, JavaScript, and Bootstrap.
 
-The code has a PHP-unction when you click 'no' and send it, you'll recive a thank you page. When you click 'yes' you'll recive a text-area for your emailadres to get some more information. 
+As evident, the website is currently unfinished. This exercise was undertaken without prior knowledge of Bootstrap or JavaScript and with only a basic understanding of HTML. Given the 6-hour timeframe, it is a commendable accomplishment.
+
+The code includes a PHP function that triggers when the user clicks 'no' and submits the form, leading to a thank-you page. On the other hand, selecting 'yes' prompts a text area for the user to input their email address for receiving additional information.
+
+# Table of Contents
+1. Folder Structure
+2. Dependencies
+3. Usage
+4. Contributing
+5. License
+6. 
+## Folder Structure
+- css: Contains the CSS files for styling.
+- images: Holds images used in the website.
+- js: Includes JavaScript files for interactive features.
+- index.html: The main homepage of the Bit Academy website.
+- process.php: Handles form submission and processes user input.
+
+## Dependencies
+- Bootstrap v5.2.1: CSS framework for responsive design.
+- Popper.js v2.11.6: Required for Bootstrap dropdowns.
+- jQuery v3.5.1: JavaScript library for DOM manipulation.
+- Bootstrap JavaScript v5.2.1: Bootstrap's JavaScript functions.
+
+## Usage
+- Open index.html in a web browser to view the Bit Academy website.
+- The website provides information about education programs and a form for expressing interest.
+- Fill out the form and submit it to receive more information.
+- View the processed results in process.php.
+
+## Contributing
+If you would like to contribute to the development of the Bit Academy website, please follow these steps:
+
+## Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make changes and test thoroughly.
+- Submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+Feel free to adjust this README further based on your preferences and any additional information you'd like to include.
